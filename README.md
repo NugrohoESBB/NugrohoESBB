@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nugroho Eko Saputra Batubara</h1>
-<p align="center"> <img width="50%" src ="https://readme-typing-svg.herokuapp.com?color=49F7C7&center=true&height=60&lines=Computer+Engineering+and+Computer+System+Student.....;Networking.....;Web+Developer.....;Microcontroller.;Nice+to+Meet+You+%3A)"(https://git.io/typing-svg)
+<p align="center"> <img width="50%" src ="https://readme-typing-svg.herokuapp.com?color=49F7C7&center=true&height=60&lines=Computer+Engineering+and.....;Computer+System+Student.....;Networking.....;Web+Developer.....;Microcontroller.;Nice+to+Meet+You+%3A)"(https://git.io/typing-svg)
 </p>
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=NugrohoESBB&label=Profile%20views&color=182020&style=plastic" alt="NugrohoESBB" /> </p>
