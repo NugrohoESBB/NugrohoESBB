@@ -6,7 +6,7 @@
 
 <hr>
 <p align ="center">
-Assalamu'alaikum, hello, I'm a tech enthusiast, I am currently studying at Gunadarma University majoring in Computer Engineering and Computer Systems.
+Assalamu'alaikum, hello, I'm a Robotic, Web, & IoT developer, as well as a tech enthusiast, I am currently studying at Gunadarma University majoring in Computer Engineering and Computer Systems.
 </p>
 <hr><h3 align="left">Github Statistic</h3>
 <a href="https://github.com/NugrohoESBB">
